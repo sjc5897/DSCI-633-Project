@@ -25,5 +25,6 @@ if __name__ == '__main__':
 
     # print the df (dataframes)
     print(df.shape)
+    print(df)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
