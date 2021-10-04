@@ -6,7 +6,7 @@ This is a python script using pandas that will help us explore some cool data
 @author:    Stephen Cook <sjc5897@rit.edu>
 @language:  Python 3
 @created:   10/1/21
-@last edit: 10/1/21
+@last edit: 10/4/21
 """
 
 # Imports
@@ -27,4 +27,3 @@ if __name__ == '__main__':
     print(df.shape)
     print(df)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
